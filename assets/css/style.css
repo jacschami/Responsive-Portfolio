@@ -361,6 +361,12 @@ position: absolute;
 
     }
 
+    .pcontent{
+        width:50%;
+    margin: auto;
+    margin-top:50px;
+    }
+
 
 
 #me{width:230px;
@@ -440,11 +446,17 @@ margin-left: -60px;
     .content2{margin:auto;
     width:60%;}
 
-
+     .pcontent{
+        margin:auto;
+        width:60%;
+     }
      header{height:0px;
         padding:30px;
      }
     
+     #second{
+         margin-left: 230px;
+     }
      #JorgeCorrea{
          padding-bottom:2px;
      }
@@ -507,6 +519,25 @@ margin-left: -60px;
         height: 300px;
     }
 
+#i1{
+    margin-top:100px;
+}
+
+#i2{
+    margin-top:100px;
+}
+
+
+#i3{
+    margin-top:100px;
+}
+
+
+#third{
+    margin-top:200px;
+}
+
+
 footer{margin-top: 300px;}
           
 img{width:125px;
@@ -538,6 +569,14 @@ img{width:125px;
         margin-top:-5px;
         width:60%;
         height: 400px; }
+
+
+        .pcontent{
+            width:60%;
+            margin-left:60px ;
+            margin-top:-5px;
+            width:60%;
+            height: 400px; }
 
 
         #button{
